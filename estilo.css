@@ -1,0 +1,21 @@
+body {
+    background-color:mediumpurple;
+    color: black;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subparafo {
+    font-size: 1.2em;
+}
+
+#primero {
+    font-size: 1.5em;
+}
